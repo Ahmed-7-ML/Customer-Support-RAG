@@ -6,6 +6,10 @@ The chatbot retrieves relevant information from a PDF knowledge base and generat
 
 ---
 
+## 📸 Demo
+
+![Chatbot Demo](gradio-ui.png)
+
 ## 🚀 Project Overview
 
 This project implements a **Customer Support AI Assistant** for an electronics company.
